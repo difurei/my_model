@@ -1,0 +1,8 @@
+Model Information:
+* title:	Nintendo Power Glove NES (photogrammetry)
+* source:	https://sketchfab.com/3d-models/nintendo-power-glove-nes-photogrammetry-de05fe8a0c314eeeb8f7478b92032f1d
+* author:	Austin Beaulier (https://sketchfab.com/Austin.Beaulier)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
